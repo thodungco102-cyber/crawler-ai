@@ -1,0 +1,320 @@
+{
+    "updated_at": "08:00 04/11/2026",
+    "source": "BaoMoi Raw Crawler Pipeline",
+    "blocks": {
+        "BLOCK_1_GOLD": {
+            "SJC_1L_10L_1KG": {
+                "label": "SJC 1L, 10L, 1KG",
+                "buyRate": 137600000,
+                "sellRate": 140600000,
+                "unit": "VNĐ/lượng",
+                "type": "gold"
+            },
+            "SJC_5_CH": {
+                "label": "SJC 5 chỉ",
+                "buyRate": 137600000,
+                "sellRate": 140620000,
+                "unit": "VNĐ/lượng",
+                "type": "gold"
+            },
+            "SJC_0_5_1_2_CH": {
+                "label": "SJC 0.5, 1, 2 chỉ",
+                "buyRate": 137600000,
+                "sellRate": 140630000,
+                "unit": "VNĐ/lượng",
+                "type": "gold"
+            },
+            "V_NG_NH_N_SJC_99_99_1_CH_2_CH_5_CH": {
+                "label": "Vàng nhẫn SJC 99,99% 1 chỉ, 2 chỉ, 5 chỉ",
+                "buyRate": 133700000,
+                "sellRate": 137700000,
+                "unit": "VNĐ/lượng",
+                "type": "gold"
+            },
+            "V_NG_NH_N_SJC_99_99_0_5_CH_0_3_CH": {
+                "label": "Vàng nhẫn SJC 99,99% 0.5 chỉ, 0.3 chỉ",
+                "buyRate": 133700000,
+                "sellRate": 137800000,
+                "unit": "VNĐ/lượng",
+                "type": "gold"
+            },
+            "V_NG_MI_NG_SJC": {
+                "label": "VÀNG MIẾNG SJC",
+                "buyRate": 13760000,
+                "sellRate": 14060000,
+                "unit": "VNĐ/lượng",
+                "type": "gold"
+            },
+            "KIM_TT_AVPL": {
+                "label": "KIM TT/AVPL",
+                "buyRate": 13550000,
+                "sellRate": 13950000,
+                "unit": "VNĐ/chỉ",
+                "type": "gold"
+            },
+            "NH_N_TR_N_9999_H_NG_TH_NH_V_NG": {
+                "label": "NHẪN TRÒN 9999 HƯNG THỊNH VƯỢNG",
+                "buyRate": 13550000,
+                "sellRate": 13950000,
+                "unit": "VNĐ/chỉ",
+                "type": "gold"
+            },
+            "V_NG_NGUY_N_LI_U_9999": {
+                "label": "VÀNG NGUYÊN LIỆU 9999",
+                "buyRate": 12900000,
+                "sellRate": 13100000,
+                "unit": "VNĐ/chỉ",
+                "type": "gold"
+            },
+            "V_NG_NGUY_N_LI_U_999": {
+                "label": "VÀNG NGUYÊN LIỆU 999",
+                "buyRate": 12850000,
+                "sellRate": 13050000,
+                "unit": "VNĐ/chỉ",
+                "type": "gold"
+            },
+            "PNJ_HCM": {
+                "label": "PNJ HCM",
+                "buyRate": 134900000,
+                "sellRate": 138900000,
+                "unit": "VNĐ/lượng",
+                "type": "gold"
+            },
+            "SJC_HCM": {
+                "label": "SJC HCM",
+                "buyRate": 137600000,
+                "sellRate": 140600000,
+                "unit": "VNĐ/lượng",
+                "type": "gold"
+            },
+            "PNJ_HN": {
+                "label": "PNJ HN",
+                "buyRate": 134900000,
+                "sellRate": 138900000,
+                "unit": "VNĐ/lượng",
+                "type": "gold"
+            },
+            "SJC_HN": {
+                "label": "SJC HN",
+                "buyRate": 137600000,
+                "sellRate": 140600000,
+                "unit": "VNĐ/lượng",
+                "type": "gold"
+            },
+            "PNJ_N": {
+                "label": "PNJ ĐN",
+                "buyRate": 134900000,
+                "sellRate": 138900000,
+                "unit": "VNĐ/lượng",
+                "type": "gold"
+            },
+            "V_NG_MI_NG_VRTL_B_O_T_N_MINH_CH_U": {
+                "label": "VÀNG MIẾNG VRTL BẢO TÍN MINH CHÂU",
+                "buyRate": 135300000,
+                "sellRate": 139300000,
+                "unit": "VNĐ/lượng",
+                "type": "gold"
+            },
+            "NH_N_TR_N_TR_N_B_O_T_N_MINH_CH_U": {
+                "label": "NHẪN TRÒN TRƠN BẢO TÍN MINH CHÂU",
+                "buyRate": 135300000,
+                "sellRate": 139300000,
+                "unit": "VNĐ/lượng",
+                "type": "gold"
+            },
+            "NG_XU_VRTL_0_1": {
+                "label": "ĐỒNG XU VRTL 0.1",
+                "buyRate": 13530000,
+                "sellRate": 13930000,
+                "unit": "VNĐ/chỉ",
+                "type": "gold"
+            },
+            "QU_M_NG_B_N_V_V_NG_B_O_T_N_MINH_CH_U": {
+                "label": "QUÀ MỪNG BẢN VỊ VÀNG BẢO TÍN MINH CHÂU",
+                "buyRate": 135300000,
+                "sellRate": 139300000,
+                "unit": "VNĐ/lượng",
+                "type": "gold"
+            }
+        },
+        "BLOCK_2_FOREX": {
+            "VND": {
+                "label": "VND - Đồng Việt Nam",
+                "buyRate": 1.0,
+                "transferRate": 1.0,
+                "sellRate": 1.0,
+                "unit": "VNĐ",
+                "type": "forex"
+            },
+            "AUD": {
+                "label": "AUD - Đô la Úc",
+                "buyRate": 17481.66,
+                "transferRate": 17658.24,
+                "sellRate": 18224.32,
+                "unit": "VNĐ",
+                "type": "forex"
+            },
+            "CAD": {
+                "label": "CAD - Đô la Canada",
+                "buyRate": 17950.09,
+                "transferRate": 18131.4,
+                "sellRate": 18712.65,
+                "unit": "VNĐ",
+                "type": "forex"
+            },
+            "CHF": {
+                "label": "CHF - Franc Thuỵ Sĩ",
+                "buyRate": 30711.38,
+                "transferRate": 31021.59,
+                "sellRate": 32016.07,
+                "unit": "VNĐ",
+                "type": "forex"
+            },
+            "CNY": {
+                "label": "CNY - Nhân dân tệ Trung Quốc",
+                "buyRate": 3765.43,
+                "transferRate": 3803.46,
+                "sellRate": 3925.39,
+                "unit": "VNĐ",
+                "type": "forex"
+            },
+            "DKK": {
+                "label": "DKK - Krone Đan Mạch",
+                "buyRate": null,
+                "transferRate": 3797.2,
+                "sellRate": 3942.52,
+                "unit": "VNĐ",
+                "type": "forex"
+            },
+            "EUR": {
+                "label": "EUR - Đồng Euro",
+                "buyRate": 28168.52,
+                "transferRate": 28453.05,
+                "sellRate": 29654.5,
+                "unit": "VNĐ",
+                "type": "forex"
+            },
+            "GBP": {
+                "label": "GBP - Bảng Anh",
+                "buyRate": 33737.95,
+                "transferRate": 34078.73,
+                "sellRate": 35171.22,
+                "unit": "VNĐ",
+                "type": "forex"
+            },
+            "HKD": {
+                "label": "HKD - Đô la Hồng Kông",
+                "buyRate": 3191.66,
+                "transferRate": 3223.9,
+                "sellRate": 3347.28,
+                "unit": "VNĐ",
+                "type": "forex"
+            },
+            "INR": {
+                "label": "INR - Rupee Ấn Độ",
+                "buyRate": null,
+                "transferRate": 270.44,
+                "sellRate": 282.09,
+                "unit": "VNĐ",
+                "type": "forex"
+            },
+            "JPY": {
+                "label": "JPY - Yên Nhật",
+                "buyRate": 156.69,
+                "transferRate": 158.27,
+                "sellRate": 167.48,
+                "unit": "VNĐ",
+                "type": "forex"
+            },
+            "KRW": {
+                "label": "KRW - Won Hàn Quốc",
+                "buyRate": 16.57,
+                "transferRate": 18.42,
+                "sellRate": 19.98,
+                "unit": "VNĐ",
+                "type": "forex"
+            },
+            "KWD": {
+                "label": "KWD - Đồng Dinar Kuwaiti",
+                "buyRate": null,
+                "transferRate": 83187.96,
+                "sellRate": 87222.67,
+                "unit": "VNĐ",
+                "type": "forex"
+            },
+            "MYR": {
+                "label": "MYR - Ringgit Malaysia",
+                "buyRate": null,
+                "transferRate": 6259.53,
+                "sellRate": 6395.9,
+                "unit": "VNĐ",
+                "type": "forex"
+            },
+            "NOK": {
+                "label": "NOK - Krone Na Uy",
+                "buyRate": null,
+                "transferRate": 2725.28,
+                "sellRate": 2840.92,
+                "unit": "VNĐ",
+                "type": "forex"
+            },
+            "RUB": {
+                "label": "RUB - Rúp Nga",
+                "buyRate": null,
+                "transferRate": 301.42,
+                "sellRate": 333.67,
+                "unit": "VNĐ",
+                "type": "forex"
+            },
+            "SAR": {
+                "label": "SAR - Rian Ả-Rập-Xê-Út",
+                "buyRate": null,
+                "transferRate": 6826.13,
+                "sellRate": 7120.12,
+                "unit": "VNĐ",
+                "type": "forex"
+            },
+            "SEK": {
+                "label": "SEK - Krona Thuỵ Điển",
+                "buyRate": null,
+                "transferRate": 2584.23,
+                "sellRate": 2693.89,
+                "unit": "VNĐ",
+                "type": "forex"
+            },
+            "SGD": {
+                "label": "SGD - Đô la Singapore",
+                "buyRate": 19597.78,
+                "transferRate": 19795.74,
+                "sellRate": 20471.26,
+                "unit": "VNĐ",
+                "type": "forex"
+            },
+            "THB": {
+                "label": "THB - Baht Thái Lan",
+                "buyRate": 673.6,
+                "transferRate": 748.45,
+                "sellRate": 780.21,
+                "unit": "VNĐ",
+                "type": "forex"
+            },
+            "USD": {
+                "label": "USD - Đô la Mỹ",
+                "buyRate": 25550.0,
+                "transferRate": 25580.0,
+                "sellRate": 25960.0,
+                "unit": "VNĐ",
+                "type": "forex"
+            }
+        },
+        "BLOCK_3_CRYPTO": {
+            "BTC": {
+                "label": "Bitcoin (BTC)",
+                "buyRate": 76733.32,
+                "sellRate": 77504.51,
+                "unit": "USD",
+                "type": "crypto"
+            }
+        }
+    }
+}
