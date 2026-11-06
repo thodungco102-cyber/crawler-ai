@@ -4,37 +4,36 @@ Info: images fromt web: https://unsplash.com - thanks so much! and craeted by A.
 
 # 📁 DANH SÁCH TOÀN BỘ HÌNH ẢNH CẦN CHUẨN BỊ (Thư mục `Images/`)
 
----
-
 ## 🎨 I. HÌNH NỀN TỔNG THỂ WEBSITE
-- `bg-dark.jpg` ➔ **Hình nền cho chế độ Tối (Dark mode) toàn trang**
-- `bg-light.jpg` ➔ **Hình nền cho chế độ Sáng (Light mode) toàn trang**
 
----
+1. `bg-dark.jpg` ➔ **Hình nền cho chế độ Tối (Dark mode) toàn trang**
+2. `bg-light.jpg` ➔ **Hình nền cho chế độ Sáng (Light mode) toàn trang**
 
 ## 🌤️ II. HÌNH NỀN BANNER (CARD 0) THEO THỜI ĐIỂM & THỜI TIẾT
-- `default-day.jpg` ➔ **Hình nền mặc định ban ngày**
-- `default-night.jpg` ➔ **Hình nền mặc định ban đêm**
-- `default-dawn.jpg` ➔ **Hình nền khoảnh khắc Bình minh**
-- `default-dusk.jpg` ➔ **Hình nền khoảnh khắc Hoàng hôn**
-- `weather-rain.jpg` ➔ **Hình nền khi có mưa rào**
-- `weather-thunder.jpg` ➔ **Hình nền khi có dông sét, thời tiết nguy hiểm**
 
----
+3. `default-day.jpg` ➔ **Hình nền mặc định ban ngày**
+4. `default-night.jpg` ➔ **Hình nền mặc định ban đêm**
+5. `default-dawn.jpg` ➔ **Hình nền khoảnh khắc Bình minh**
+6. `default-dusk.jpg` ➔ **Hình nền khoảnh khắc Hoàng hôn**
+7. `weather-rain.jpg` ➔ **Hình nền khi có mưa rào**
+8. `weather-thunder.jpg` ➔ **Hình nền khi có dông sét, thời tiết nguy hiểm**
 
 ## 🎆 III. HÌNH NỀN BANNER (CARD 0) THEO LỄ HỘI & SỰ KIỆN
-- `holiday-newyear-day.jpg` & `holiday-newyear-night.jpg` ➔ **Tết Dương lịch**
-- `holiday-tet-day.jpg` & `holiday-fireworks.jpg` ➔ **Tết Nguyên Đán / Giao thừa (Pháo hoa)**
-- `holiday-valentines-day.jpg` & `holiday-valentines.jpg` ➔ **Lễ Tình Nhân (Valentine)**
-- `holiday-midautumn-day.jpg` & `holiday-midautumn.jpg` ➔ **Tết Trung Thu**
-- `holiday-other-day.jpg` & `holiday-other-night.jpg` ➔ **Dự phòng cho các ngày lễ / sự kiện khác**
 
----
+9. `holiday-newyear-day.jpg` ➔ **Tết Dương lịch (Ban ngày)**
+10. `holiday-newyear-night.jpg` ➔ **Tết Dương lịch (Ban đêm)**
+11. `holiday-tet-day.jpg` ➔ **Tết Nguyên Đán (Ban ngày)**
+12. `holiday-fireworks.jpg` ➔ **Giao thừa / Pháo hoa (Ban đêm)**
+13. `holiday-valentines-day.jpg` ➔ **Lễ Tình Nhân / Valentine (Ban ngày)**
+14. `holiday-valentines.jpg` ➔ **Lễ Tình Nhân / Valentine (Ban đêm)**
+15. `holiday-midautumn-day.jpg` ➔ **Tết Trung Thu (Ban ngày)**
+16. `holiday-midautumn.jpg` ➔ **Tết Trung Thu (Ban đêm)**
+17. `holiday-other-day.jpg` ➔ **Dự phòng ngày lễ khác (Ban ngày)**
+18. `holiday-other-night.jpg` ➔ **Dự phòng ngày lễ khác (Ban đêm)**
 
 ## 🌕 IV. HÌNH NỀN BANNER (CARD 0) THEO ÂM LỊCH & TIẾT KHÍ
-- `lunar-fullmoon.jpg` ➔ **Đêm Rằm (15 Âm lịch - Trăng tròn)**
-- `lunar-tomorrow-moon.jpg` ➔ **Sự kiện trăng / Ngày mai có trăng**
-- `solar-spring.jpg` ➔ **Các tiết khí mùa Xuân**
-- `solar-autumn.jpg` ➔ **Các tiết khí mùa Thu**
 
-
+19. `lunar-fullmoon.jpg` ➔ **Đêm Rằm (15 Âm lịch - Trăng tròn)**
+20. `lunar-tomorrow-moon.jpg` ➔ **Sự kiện trăng / Ngày mai có trăng**
+21. `solar-spring.jpg` ➔ **Các tiết khí mùa Xuân**
+22. `solar-autumn.jpg` ➔ **Các tiết khí mùa Thu**
