@@ -1,63 +1,40 @@
 
 Info: images fromt web: https://unsplash.com - thanks so much! and craeted by A.I
 
- 'globalWebsite': {
-            'dark': ['images/bg-dark.jpg', 'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/bg-dark.jpg'],
-            'light': ['images/bg-light.jpg', 'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/bg-light.jpg']
-        },
 
-        'cardZeroBackgrounds': {
-            // [0]: Ưu tiên ảnh local trong thư mục images/ trên LXC / Git
-            // [1]: Link dự phòng trực tiếp từ repo crawler-ai trên GitHub
-            'defaultNight': [
-                'images/default-night.jpg', 
-                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/default-night.jpg'
-            ],
-            'defaultDay': [
-                'images/default-day.jpg', 
-                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/default-day.jpg'
-            ],
-            'weatherThunder': [
-                'images/weather-thunder.jpg', 
-                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/weather-thunder.jpg'
-            ],
-            'weatherRain': [
-                'images/weather-rain.jpg', 
-                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/weather-rain.jpg'
-            ],
-            'holidayFireworks': [
-                'images/holiday-fireworks.jpg', 
-                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/holiday-fireworks.jpg'
-            ],
-            'holidayValentines': [
-                'images/holiday-valentines.jpg', 
-                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/holiday-valentines.jpg'
-            ],
-            'holidayMidAutumn': [
-                'images/holiday-midautumn.jpg', 
-                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/holiday-midautumn.jpg'
-            ],
-            'holidayOtherNight': [
-                'images/holiday-other-night.jpg', 
-                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/holiday-other-night.jpg'
-            ],
-            'holidayOtherDay': [
-                'images/holiday-other-day.jpg', 
-                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/holiday-other-day.jpg'
-            ],
-            'lunarTomorrowMoon': [
-                'images/lunar-tomorrow-moon.jpg', 
-                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/lunar-tomorrow-moon.jpg'
-            ],
-            'lunarFullMoonToday': [
-                'images/lunar-fullmoon.jpg', 
-                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/lunar-fullmoon.jpg'
-            ],
-            'solarSpringBlossom': [
-                'images/solar-spring.jpg', 
-                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/solar-spring.jpg'
-            ],
-            'solarAutumnLeaves': [
-                'images/solar-autumn.jpg', 
-                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/solar-autumn.jpg'
-            ]
+# 📁 DANH SÁCH TOÀN BỘ HÌNH ẢNH CẦN CHUẨN BỊ (Thư mục `Images/`)
+
+---
+
+## 🎨 I. HÌNH NỀN TỔNG THỂ WEBSITE
+- `bg-dark.jpg` ➔ **Hình nền cho chế độ Tối (Dark mode) toàn trang**
+- `bg-light.jpg` ➔ **Hình nền cho chế độ Sáng (Light mode) toàn trang**
+
+---
+
+## 🌤️ II. HÌNH NỀN BANNER (CARD 0) THEO THỜI ĐIỂM & THỜI TIẾT
+- `default-day.jpg` ➔ **Hình nền mặc định ban ngày**
+- `default-night.jpg` ➔ **Hình nền mặc định ban đêm**
+- `default-dawn.jpg` ➔ **Hình nền khoảnh khắc Bình minh**
+- `default-dusk.jpg` ➔ **Hình nền khoảnh khắc Hoàng hôn**
+- `weather-rain.jpg` ➔ **Hình nền khi có mưa rào**
+- `weather-thunder.jpg` ➔ **Hình nền khi có dông sét, thời tiết nguy hiểm**
+
+---
+
+## 🎆 III. HÌNH NỀN BANNER (CARD 0) THEO LỄ HỘI & SỰ KIỆN
+- `holiday-newyear-day.jpg` & `holiday-newyear-night.jpg` ➔ **Tết Dương lịch**
+- `holiday-tet-day.jpg` & `holiday-fireworks.jpg` ➔ **Tết Nguyên Đán / Giao thừa (Pháo hoa)**
+- `holiday-valentines-day.jpg` & `holiday-valentines.jpg` ➔ **Lễ Tình Nhân (Valentine)**
+- `holiday-midautumn-day.jpg` & `holiday-midautumn.jpg` ➔ **Tết Trung Thu**
+- `holiday-other-day.jpg` & `holiday-other-night.jpg` ➔ **Dự phòng cho các ngày lễ / sự kiện khác**
+
+---
+
+## 🌕 IV. HÌNH NỀN BANNER (CARD 0) THEO ÂM LỊCH & TIẾT KHÍ
+- `lunar-fullmoon.jpg` ➔ **Đêm Rằm (15 Âm lịch - Trăng tròn)**
+- `lunar-tomorrow-moon.jpg` ➔ **Sự kiện trăng / Ngày mai có trăng**
+- `solar-spring.jpg` ➔ **Các tiết khí mùa Xuân**
+- `solar-autumn.jpg` ➔ **Các tiết khí mùa Thu**
+
+
