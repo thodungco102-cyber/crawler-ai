@@ -1,1 +1,63 @@
-set hinh cho toan web
+
+Info: images fromt web: https://unsplash.com - thanks so much! and craeted by A.I
+
+ 'globalWebsite': {
+            'dark': ['images/bg-dark.jpg', 'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/bg-dark.jpg'],
+            'light': ['images/bg-light.jpg', 'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/bg-light.jpg']
+        },
+
+        'cardZeroBackgrounds': {
+            // [0]: Ưu tiên ảnh local trong thư mục images/ trên LXC / Git
+            // [1]: Link dự phòng trực tiếp từ repo crawler-ai trên GitHub
+            'defaultNight': [
+                'images/default-night.jpg', 
+                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/default-night.jpg'
+            ],
+            'defaultDay': [
+                'images/default-day.jpg', 
+                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/default-day.jpg'
+            ],
+            'weatherThunder': [
+                'images/weather-thunder.jpg', 
+                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/weather-thunder.jpg'
+            ],
+            'weatherRain': [
+                'images/weather-rain.jpg', 
+                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/weather-rain.jpg'
+            ],
+            'holidayFireworks': [
+                'images/holiday-fireworks.jpg', 
+                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/holiday-fireworks.jpg'
+            ],
+            'holidayValentines': [
+                'images/holiday-valentines.jpg', 
+                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/holiday-valentines.jpg'
+            ],
+            'holidayMidAutumn': [
+                'images/holiday-midautumn.jpg', 
+                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/holiday-midautumn.jpg'
+            ],
+            'holidayOtherNight': [
+                'images/holiday-other-night.jpg', 
+                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/holiday-other-night.jpg'
+            ],
+            'holidayOtherDay': [
+                'images/holiday-other-day.jpg', 
+                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/holiday-other-day.jpg'
+            ],
+            'lunarTomorrowMoon': [
+                'images/lunar-tomorrow-moon.jpg', 
+                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/lunar-tomorrow-moon.jpg'
+            ],
+            'lunarFullMoonToday': [
+                'images/lunar-fullmoon.jpg', 
+                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/lunar-fullmoon.jpg'
+            ],
+            'solarSpringBlossom': [
+                'images/solar-spring.jpg', 
+                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/solar-spring.jpg'
+            ],
+            'solarAutumnLeaves': [
+                'images/solar-autumn.jpg', 
+                'https://raw.githubusercontent.com/thodungco102-cyber/crawler-ai/main/images/solar-autumn.jpg'
+            ]
